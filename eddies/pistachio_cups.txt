@@ -1,0 +1,42 @@
+# Pistachio Cups (yields 24 cups)
+
+## Chocolate outside
+1/2 cup butter (112.5 g)
+120 g honey
+928 g cacao nibs
+1/4 tsp salt
+1/4 tsp cayenne pepper
+
+1.  add contents to blender noting weight
+2.  blend until smooth
+3.  transfer melted mixture to bowl
+
+
+## Pistachio filling
+2 cups shelled roasted pistachios
+2 tbsp honey (165 g ?)
+1/2 tsp green cardamom
+
+1.  add contents to clean blender noting weight
+2.  blend until smooth
+3.  transfer to bowl
+
+#Measure:
+1. Total weight of chocolate = ..
+
+2. Total weight of pistaccio filling = ..
+
+## Cups
+
+1.  calculate portions
+    -> bottom layer = total weight of chocolate * 0.7 / 24
+    -> top layer = total weight of chocolate * 0.3 / 24
+    -> pistachio filling = total weight of filling / 24
+
+2.  assemble in cups sprinkling top of each with a pinch of sea salt
+
+3.  freeze until set (~1 hour)
+
+
+https://feelgoodfoodie.net/recipe/chocolate-pistachio-butter-cups/
+
